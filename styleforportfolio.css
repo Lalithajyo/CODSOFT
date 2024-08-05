@@ -1,0 +1,307 @@
+
+.div1 {
+    width: 100vw;
+    height: 70vh;
+    background-color: crimson;
+
+}
+
+.head {
+    color: white;
+    text-align: left;
+    margin-left: 30px;
+}
+
+.ul {
+
+    display: flex;
+    color: white;
+    list-style-type: none;
+
+}
+
+.l-sty {
+    color: white;
+    padding: 20px;
+
+
+}
+
+.img1 {
+    width: 300px;
+    height: 435px;
+    float: right;
+    margin-right: 250px;
+}
+
+.head2 {
+    color: white;
+    margin-left: 200px;
+    font-weight: 100px;
+    font-size: 70px;
+    margin-top: 20px;
+
+}
+
+.head3 {
+    color: white;
+    margin-left: 200px;
+}
+
+.butt {
+    width: 7vw;
+    height: 7vh;
+    background-color: white;
+    color: crimson;
+    border: none;
+    margin-left: 200px;
+}
+
+.butt2 {
+    width: 7vw;
+    height: 7vh;
+    background-color: white;
+    color: crimson;
+    border: none;
+    margin-left: 50px;
+
+}
+
+.head4 {
+    font-size: 50px;
+    font-weight: 100px;
+    text-align: center;
+
+}
+
+.icons {
+    color: crimson;
+    font-size: 50px;
+    padding: 38px;
+
+
+}
+
+.div2 {
+    border-style: solid;
+    border-color: crimson;
+    padding: 7px;
+    width: 12vw;
+    height: 20vh;
+    margin-left: 200px;
+
+
+}
+
+.head5 {
+    margin: 20px;
+}
+
+.div3 {
+    width: 50vw;
+    height: 25vh;
+    margin-left: 200px;
+    background-color: white;
+    padding: 10px;
+    border-style: solid;
+    border-color: crimson;
+
+
+}
+
+.div4 {
+    width: 100vw;
+    height: 54vh;
+    background-color: crimson;
+
+}
+
+.head6 {
+    color: rgb(85, 80, 80);
+    text-align: center;
+    padding-top: 50px;
+}
+
+.head7 {
+    color: white;
+    font-weight: 100px;
+    font-size: 70px;
+    text-align: center;
+}
+
+.head8 {
+    color: rgb(85, 80, 80);
+    font-weight: 100px;
+    font-size: 70px;
+    text-align: center;
+}
+
+.head9 {
+    color: white;
+    text-align: center;
+}
+
+.butt3 {
+    width: 9vw;
+    height: 7vh;
+    background-color: white;
+    color: crimson;
+    border: none;
+    text-align: center;
+    margin-left: 650px;
+
+}
+
+.butt4 {
+    width: 8vw;
+    height: 7vh;
+    background-color: crimson;
+    color: white;
+    border: none;
+    margin: 20px;
+}
+
+.img2 {
+    width: 30vw;
+    height: 35vh;
+    margin: 5px;
+}
+
+.div5 {
+    width: 20vw;
+    height: 50vh;
+    margin: 50px;
+    text-align: center;
+}
+
+.head10 {
+    font-size: 40px;
+    margin-top: 15px;
+
+}
+
+.butt5 {
+    width: 8vw;
+    height: 7vh;
+    background-color: crimson;
+    color: white;
+    border: none;
+    margin-left: 75px;
+}
+
+.div6 {
+    width: 40vw;
+    height: 35vh;
+    margin: 10px;
+
+
+}
+
+.img3 {
+    width: 20vw;
+    height: 35vh;
+    padding:13px;
+
+    float: left;
+}
+
+.div7 {
+    width: 20vw;
+    height: 30vh;
+    background-color: crimson;
+}
+
+.icon2 {
+    font-size: 20px;
+    color: white;
+    background-color: crimson;
+    margin: 8px;
+    padding: 5px;
+
+}
+
+.div8 {
+    width: 100vw;
+    height: 60vh;
+    background-color: crimson;
+    margin-top: 50px;
+}
+
+.img4 {
+    width: 40vw;
+    height: 60vh;
+    float: left;
+    padding-right:20px;
+
+
+}
+
+.head11 {
+    color: white;
+    padding-top: 70px;
+
+}
+
+.head12 {
+    color: white;
+}
+
+.butt6 {
+    width: 9vw;
+    height: 7vh;
+    background-color: white;
+    color: crimson;
+    border: none;
+    margin: 10px;
+}
+
+.div9 {
+    width: 36vw;
+    height: 70vh;
+    margin:15px;
+    padding:5px;
+    
+}
+
+.img5 {
+    width: 36vw;
+    height: 35vh;
+    padding:5px;
+}
+.head13{
+    color:gray;
+    margin:20px;
+
+}
+.butt7{
+    width: 8vw;
+    height: 9vh;
+    background-color: crimson;
+    color: white;
+    border: none;
+    margin:15px;
+}
+.div10{
+    width:100vw;
+    height:40vh;
+    background-color: crimson;
+    padding:25px;
+}
+.head14{
+    color:white;
+    font-size: 30px;
+    font-weight: 5px;
+    text-align: center;
+}
+.icon3{
+    font-size: 20px;
+    color: white;
+    background-color: crimson;
+    padding: 8px;
+    margin:5px;
+}
+.head15{
+    color:white;
+    font-size:15px;
+    text-align: center;
+}
