@@ -1,0 +1,238 @@
+.bg-color {
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+}
+
+.logo {
+    width: 135px;
+    height: 130px;
+}
+
+.back-image {
+    width: 100vw;
+    height: 82vh;
+    background-image: url("https://c.ndtvimg.com/2022-05/ntucqbc_fashion-650_625x300_02_May_22.jpg");
+    margin-left: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+}
+
+.img-1 {
+    width: 20vw;
+    height: 25vh;
+    margin: 20px;
+
+
+}
+
+.div-3 {
+    width:12vw;
+    height: 68vh;
+    background-color: black;
+    text-align: left;
+    color: wheat;
+    font-size: 80px;
+    font-weight: 500;
+    padding-top: 50px;
+    
+
+
+}
+
+.div-4 {
+    width:55vw;
+    height:39vh;
+    background-color: grey;
+    
+
+
+}
+
+.b-image1 {
+    background-image: url("https://marketplace.canva.com/EAE942zKuBI/1/0/1600w/canva-brown-minimalist-casual-fashion-collection-presentation-lXzzAes9eEE.jpg");
+    width:45vw;
+    height:75vh;
+    background-size: cover;
+    
+
+}
+.b-image2{
+    background-image: url("https://cdn2.vectorstock.com/i/1000x1000/74/46/seamless-borders-of-different-women-clothes-vector-4807446.jpg");
+    width:55vw;
+    height:42vh;
+}
+.div4-1{
+    background-color: white;
+    width:40vw;
+    height:20vh;
+    margin:60px;
+    padding-left: 20px;
+    
+}
+.summer,.winter{
+    color:black;
+    
+}
+.edi{
+    color:wheat;
+    
+}
+.div-5{
+    width:55vw;
+    height:30vh;
+    background-color: gray;
+
+}
+.b-image3{
+    background-image: url("https://png.pngtree.com/background/20210715/original/pngtree-blue-winter-snowflake-border-background-picture-image_1290414.jpg");
+    width:55vw;
+    height:40vh;
+}
+.div5-1{
+    background-color: white;
+    width:47vw;
+    height:20vh;
+    margin:60px;
+    padding-left: 17px;
+
+}
+.div-6{
+    width:12vw;
+    height: 68vh;
+    background-color: black;
+    text-align: left;
+    color: wheat;
+    font-size: 80px;
+    font-weight: 500;
+    padding-top: 50px;
+    
+}
+.img-men{
+    width:20vw;
+    height:30vh;
+    padding:10px;
+}
+.card{
+    width:22vw;
+}
+.p-style {
+    color: wheat;
+}
+.offer-img{
+    height:60vh;
+    background-repeat: no-repeat;
+    width:45vw;
+}
+.div-7{
+    background-color: black;
+    width:100vw;
+    height:60vh;
+    color:white;
+}
+.Email{
+    width:10vw;
+
+}
+.img-ess{
+    width:35vw;
+    height:45vh;
+}
+.div-8{
+    width:100vw;
+    height:40vh;
+    background-color: black!important;
+}
+.logo2{
+    width:15vw;
+    height:30vh;
+    padding:30px;
+}
+.line{
+    color:wheat;
+    width: 250px;
+
+}
+.last-head{
+    color:white;
+    text-align: left;
+    padding-left: 35px;
+    padding-top:10px;
+   
+}
+.div-9{
+    width:30vw;
+    height:40vh;
+    background-color: black;
+
+}
+.div-10{
+    width:30vw;
+    height:40vh;
+    background-color: black;
+}
+ .symbols{
+    width:10vw;
+    height:10vh;
+    color: white;
+    
+    
+ }
+
+.main-head {
+    text-align: left;
+    color: wheat;
+    font-size: 100px;
+    font-weight: 800;
+    margin-top: 35px;
+
+}
+
+.coll {
+    text-align: left;
+    color: white;
+    font-size: 30px;
+    font-weight: 200;
+
+}
+
+
+.ul {
+    color: black;
+    display: flex;
+    list-style-type: none;
+    margin-left: 5px;
+    padding-left: 30px;
+}
+
+li {
+
+    margin: 10px;
+    padding: 10px;
+
+}
+
+.li-sty {
+    color: white;
+    text-decoration: none;
+
+
+}
+
+.butt {
+    width: 10vw;
+    background-color: wheat;
+    padding: 8px;
+
+}
+
+.category {
+    text-align: center;
+}
+.butto{
+    margin:10px;
+    
+}
